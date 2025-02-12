@@ -1,0 +1,36 @@
+.navbar {
+    background-color: #333;
+    padding: 10px;
+    position: fixed;
+    width: 100%;
+    top: 0;
+    left: 0;
+    z-index: 1000;
+    display: flex;
+    justify-content: center;
+}
+
+.navbar ul {
+    list-style: none;
+    margin: 0;
+    padding: 0;
+    display: flex;
+}
+
+.navbar ul li {
+    margin: 0 15px;
+}
+
+.navbar ul li a {
+    color: #EDBD00;
+    text-decoration: none;
+    font-size: 18px;
+    font-family: 'Titillium Web', sans-serif;
+    font-weight: 600;
+}
+
+.navbar ul li a:hover {
+    color: #fff;
+    border-bottom: 2px solid #EDBD00;
+    padding-bottom: 5px;
+}
