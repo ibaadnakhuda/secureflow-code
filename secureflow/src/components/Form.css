@@ -16,14 +16,14 @@
 }
 
 .back {
-    background-image: url('E:/cyber security project encryption and decryption/secureflow/public/assets/background.jpg');
+    background-image: url('../../public/assets/background.jpg');
     background-size: cover;
     height: 100vh;
 
 }
 /* Background and main container styling */
 .back {
-    background-image: url('E:/cyber security project encryption and decryption/secureflow/public/assets/background.jpg');
+    background-image: url('../../public/assets/background.jpg');
     background-size: cover;
     background-position: center;
     height: 100vh;
